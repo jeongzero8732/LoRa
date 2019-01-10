@@ -28,11 +28,7 @@
 </form>
 <br><br><br>
 <div style="margin-left:540px;">
-활동량 <br>
-<input type="text"><br><br><br>
 
-목표 활동량<br>
-<input type="text">
 </div>
 </body>
 </html>
