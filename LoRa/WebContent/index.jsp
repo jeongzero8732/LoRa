@@ -234,7 +234,7 @@
       </div>
     </div>
     
-    
+    <!--location google api-->
 	<script src="http://maps.googleapis.com/maps/api/js"></script>
 	<script src="js/location.js"></script>
 	

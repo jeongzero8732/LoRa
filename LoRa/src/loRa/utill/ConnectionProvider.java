@@ -11,7 +11,7 @@ public class ConnectionProvider {
 		
 			Class.forName("com.mysql.cj.jdbc.Driver");
 			String url="jdbc:mysql://localhost:3306/jspdb?characterEncoding=UTF-8&serverTimezone=UTC";
-			return DriverManager.getConnection(url,"jspbook","passwd");
+			return DriverManager.getConnection(url,"LoRa","123456");
 			
 		}catch(Exception e){
 			e.printStackTrace();

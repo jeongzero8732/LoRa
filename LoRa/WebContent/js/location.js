@@ -17,9 +17,6 @@ function initialize() {
   var map=new google.maps.Map(document.getElementById("googleMap"),mapProp);
 
 
-
-
-
   var marker = new google.maps.Marker({
 
 	position: LatLng,
