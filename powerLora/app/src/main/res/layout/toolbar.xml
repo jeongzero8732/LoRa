@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:gravity="center_vertical"
+    android:background="#6a17af7c"
+    android:layout_width="match_parent"
+    android:layout_height="40dp">
+
+
+    <ImageButton
+        android:id="@+id/btnHistory"
+        android:layout_alignParentRight="true"
+        android:background="@drawable/lora"
+        android:layout_width="56dp"
+        android:layout_height="56dp" />
+
+    <TextView
+        android:text="Safety Management System"
+        android:id="@+id/title"
+        android:textSize="20sp"
+        android:textColor="#fff"
+        android:gravity="center_vertical"
+        android:layout_marginLeft="17dp"
+        android:fontFamily="@font/my_font"
+        android:layout_width="match_parent"
+        android:layout_height="56dp" />
+
+</RelativeLayout>
